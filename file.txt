@@ -1,0 +1,9 @@
+
+\documentclass{article}
+\begin{document}
+\[
+\int x^2 \,dx
+\]
+
+\end{document}
+
