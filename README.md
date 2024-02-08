@@ -1,7 +1,8 @@
 # Git Tutorial in Math 682
-practing making repositories, committing, and pushing to GitHub
+practicing making repositories, committing, and pushing to GitHub (making changes)
 
 - list
 - of
 - things
 - etc.
+
